@@ -1,0 +1,26 @@
+*** What is JavaScript? {JavaScript is a: JIT Compiled, Multi-Paradi GM, Prototyped Based, Dynamically type, High Abstraction Garbage Collection, Language }
+
+*** JavaScript er code take Jodi AMra Chrome er Mohdde dai thahole Chrome betore ekta Special Engine Ase Jetar Name hocce , [V8...] ai V8 Engine Deya exucute kore.
+
+*** Execution Context in JavaScript?
+---> There are tow kinds of Execution context in JavaScript.
+1. Global Execution Context(GEC).
+2. Function Execution Context(FEC).
+
+*** Call Stack JavaScript?
+*** Event Queue?
+*** What is JavaScript Event loop?
+
+
+*** JavaScript is Single-threaded?
+---> Asynchronous Vs Synchronous.
+
+*** How JavaScript Promise work?
+***Fetch API ?
+*** Async/Await?
+***SetTime Out?
+**SetInterVal?
+***clearTimeout?
+***clearInterval?
+***Finally 
+
